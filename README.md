@@ -2,6 +2,8 @@
 ======================
 [![](https://jitpack.io/v/CarGuo/RickText.svg)](https://jitpack.io/#CarGuo/RickText)
 [![Build Status](https://travis-ci.org/CarGuo/RickText.svg?branch=master)](https://travis-ci.org/CarGuo/RickText)
+[![](https://jitpack.io/v/CarGuo/RickText.svg)](https://jitpack.io/#CarGuo/RickText)
+[![](https://travis-ci.org/CarGuo/RickText.svg?branch=master)](https://travis-ci.org/CarGuo/RickText)
 
 
 #### 在project下的build.gradle添加
