@@ -3,6 +3,8 @@
 [![](https://jitpack.io/v/CarGuo/RickText.svg)](https://jitpack.io/#CarGuo/RickText)
 [![Build Status](https://travis-ci.org/CarGuo/RickText.svg?branch=master)](https://travis-ci.org/CarGuo/RickText)
 
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://www.jianshu.com/u/c6a23c2b7697)
+
 #### 在project下的build.gradle添加
 ```
 allprojects {
