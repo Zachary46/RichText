@@ -2,6 +2,7 @@
 ======================
 [![](https://jitpack.io/v/CarGuo/RickText.svg)](https://jitpack.io/#CarGuo/RickText)
 [![Build Status](https://travis-ci.org/CarGuo/RickText.svg?branch=master)](https://travis-ci.org/CarGuo/RickText)
+![](https://img.shields.io/badge/Zachary46-666-green.svg)
 
 
 
